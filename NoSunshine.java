@@ -1,5 +1,5 @@
 public class NoSunshine {
-void main(String[] args) {
+public static void main(String[] args) {
 L(2,"");
 L(1,"It's not warm when she's away\n");
 L(2,"");
