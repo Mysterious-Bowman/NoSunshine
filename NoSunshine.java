@@ -5,29 +5,23 @@ L(1,"It's not warm when she's away\n");
 L(2,"");
 L(1,"And she's always gone too long\n");
 L(3,"");
-L(1,"\n");
-L(1,"Wonder this time where she's gone\nWonder if she's gone to stay\n");
+L(1,"\nWonder this time where she's gone\nWonder if she's gone to stay\n");
 L(2,"");
 L(1,"And this house just ain't no home\n");
 L(3,"");
-L(1,"\n");
-L(1,"And ");
+L(1,"\nAnd ");
 for(int i=0;i<4;i++) {L(4,"");}
 L(1,"\n");
 for(int i=0;i<4;i++) {for(int e=0;e<5;e++) {L(4,"");}
 L(1,"\n");}
 L(4,"");
 L(4,"");
-L(1,"\n");
-L(1,"\n");
-L(1,"Hey, I ought to leave young thing alone\n");
+L(1,"\n\nHey, I ought to leave young thing alone\n");
 L(1,"But ain't no sunshine when she's gone, whoa-whoa\n");
 L(2,"");
-L(1,"Only darkness every day\n");
-L(1,"\n");
+L(1,"Only darkness every day\n\n");
 L(2,"");
-L(1,"And this house just ain't no home\n");
-L(1,"\n");
+L(1,"And this house just ain't no home\n\n");
 for(int i=0;i<4;i++) {L(3,"");}
 }
 static void L(int l,String n){
